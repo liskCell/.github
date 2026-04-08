@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://luxpybkhjbdgssyxrptk.supabase.co/storage/v1/object/public/generated-images/shared/1775184500752-pji8w8.png" alt="LiskCell Banner" width="100%" />
+  <img src="https://luxpybkhjbdgssyxrptk.supabase.co/storage/v1/object/public/generated-images/shared/1775184500752-pji8w8.png" alt="LiskCell Banner" width="80%" />
 </div>
-
 <br>
-
 <div align="center">
   <h4>💎 Welcome to LiskCell 💎</h4>
   <sub>Where Technology meets the Soul of Art</sub>
@@ -16,11 +14,11 @@
 
 <br>
 
-**LiskCell** is a cutting-edge creative technology studio based in Be'er Sheva, Israel. We specialize in pushing the boundaries of what is possible by merging **Artificial Intelligence, Music Production, and Innovative Technological Solutions**. Built on the philosophies of innovation, community, and breaking limits, LiskCell bridges hard technical logic with pure artistic soul.
+**LiskCell** is a cutting-edge creative technology studio based in Israel. We specialize in pushing the boundaries of what is possible by merging **Artificial Intelligence, Music Production, and Innovative Technological Solutions**. Built on the philosophies of innovation, community, and breaking limits, LiskCell bridges hard technical logic with pure artistic soul.
 
 ## 🏢 Our Roots & Evolution
 
-Founded in **2018** by **liskasYR** (Jonathan Yusupov)—a visionary developer, musical artist, and creator—LiskCell originally began its journey in the world of game development. Over the years, our passion for creating dynamic digital experiences naturally evolved our focus. Today, we are entirely dedicated to building elite AI architectures and high-end digital creativity platforms under our premium **xLYR** subsidiary brand.
+Founded in **15 January, 2018** by **liskasYR** (Yonatan Yusupov)—a visionary developer, musical artist, and creator—LiskCell originally began its journey in the world of game development. Over the years, our passion for creating dynamic digital experiences naturally evolved our focus. Today, we are entirely dedicated to building elite AI architectures and high-end digital creativity platforms under our premium **xLYR** subsidiary brand.
 
 ## 🤖 The LPT Ecosystem & Deta AI
 
@@ -41,19 +39,17 @@ At LiskCell, code and art are indistinguishable. The DNA of our tech is heavily 
 
 Experience our technology live or deep-dive into the universe we are building:
 
-*   **Live AI Sandbox:** [deta-liskcell.vercel.app](https://deta-liskcell.vercel.app/)
+*   **Live AI Sandbox/deta-Agent:** [deta-liskcell.vercel.app](https://deta-liskcell.vercel.app/)
 *   **Liskipedia (Our Lore & History):** [liskipedia.vercel.app](https://liskipedia.vercel.app/)
-*   **GitHub Open Source:** Discover the *LPT Engine*, *Deta Framework*, and *Liskipedia* repositories on our GitHub.
 
 ---
-
 <br>
 
 <div align="center">
-  <img src="https://liskcell.vercel.app/assets/liskcell-footer-ror1u7DP.png" alt="LiskCell Footer" width="60%" />
+  <img src="https://liskcell.vercel.app/assets/liskcell-footer-ror1u7DP.png" alt="LiskCell Footer" width="30%" />
 </div>
-
 <div align="center">
+
   <br>
   <i>"Where Technology meets the Soul of Art"</i> <br>
   <b>— liskasYR & The LiskCell Team</b>

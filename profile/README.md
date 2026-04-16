@@ -42,6 +42,11 @@ Experience our technology live or deep-dive into the universe we are building:
 *   **Live AI Sandbox/deta-Agent:** [deta-liskcell.vercel.app](https://deta-liskcell.vercel.app/)
 *   **Liskipedia (Our Lore & History):** [liskipedia.vercel.app](https://liskipedia.vercel.app/)
 
+## 👁️‍🗨️ Are Coming Next
+
+* **lpt-6.1-thinking** Will Available in 1, june 2026
+* **R- New Coder Agent** [Read More About R](https://rcoder.vercel.app/)
+
 ---
 <br>
 

@@ -44,7 +44,7 @@ Experience our technology live or deep-dive into the universe we are building:
 
 ## 👁️‍🗨️ Are Coming Next
 
-* **lpt-6.1-thinking** Will Available in 1, june 2026
+* **lpt-6.1-thinking** Officialy Available 
 * **R- New Coder Agent** [Read More About R](https://rcoder.vercel.app/)
 
 ---
